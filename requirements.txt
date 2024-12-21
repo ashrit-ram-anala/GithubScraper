@@ -1,0 +1,7 @@
+requests
+flask
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+gspread
+python-dotenv==1.0.0

@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: my-python-scraper
+    env: python
+    buildCommand: "start"
+    startCommand: "python app.py"
+    plan: free
